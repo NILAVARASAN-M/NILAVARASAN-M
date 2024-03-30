@@ -22,5 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilavarasan-m&show_icons=true&locale=en&layout=compact" alt="nilavarasan-m" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nilavarasan-m&show_icons=true&locale=en" alt="nilavarasan-m" /></p>
-![](https://leetcard.jacoblin.cool/Nila-Varasan?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilavarasan-m&" alt="nilavarasan-m" /></p>
