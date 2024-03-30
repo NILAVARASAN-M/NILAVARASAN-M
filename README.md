@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nilavarasan M</h1>
 <h3 align="center">"Expert backend developer committed to building robust systems for seamless performance, based in India."</h3>
 
-<img align="right" alt="coding" width="400 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
+<img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
 - 🌱 I’m currently learning **C++, Machine-Learning, Game Development, Embedded Systems, Embedded Systems**
 
