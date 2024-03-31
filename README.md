@@ -24,3 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nilavarasan-m&show_icons=true&locale=en" alt="nilavarasan-m" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilavarasan-m&" alt="nilavarasan-m" /></p>
 ## 🧑‍💻 Leetcode Stats
+<p align="center">
+  <img  src="https://leetcard.jacoblin.cool/VishalTheHuman?theme=dark&font=ABeeZee&ext=heatmap"/>
+</p>
