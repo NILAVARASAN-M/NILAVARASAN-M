@@ -1,11 +1,6 @@
-![github-header-image](https://github.com/NILAVARASAN-M/NILAVARASAN-M/assets/158806492/6722a2cc-2377-4cfb-b25c-af5d1d3123ac)
-
 <h1 align="center">Hi 👋, I'm Nilavarasan M</h1>
-<h3 align="center">"Expert AI developer."</h3>
 
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
-
-- 🌱 I’m currently learning **C++, Machine-Learning, Embedded Systems, Flutter App Development.**
 
 - 📫 How to reach me **01nilavarsan@gmail.com**
 
